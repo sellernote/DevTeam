@@ -1,6 +1,6 @@
 # 셀러노트 개발팀 소개
 
-안녕하세요. **셀러노트**는 수출입 물류 플랫폼인 [쉽다](https://ship-da.com)를 통해 수출입 물류 시장을 혁신하고 있습니다.
+안녕하세요. **셀러노트**는 수출입 물류 플랫폼인 [쉽다](https://www.ship-da.com)를 통해 수출입 물류 시장을 혁신하고 있습니다.
 
 ## 개발팀의 원칙
 
@@ -10,6 +10,7 @@
 2. 저희는 지금 스타트업입니다. 느린 Best보다는 빠른 Better를 선호합니다.
 3. 야근을 지양합니다.
 4. 훌륭한 소프트웨어 개발자가 되기 위해 끊임없이 공부합니다.
+5. 풀스택 개발자를 지양합니다. 모두 할 수 있다는 말은 모두 다 잘 못한다라는 말입니다. 각자 분야의 전문성을 키우도록 합니다.
 
 ## 개발 분야 및 사용 중인 기술
 
@@ -38,7 +39,7 @@
 - Typescript-rest
 
 ### 백엔드 인프라
-- AWS (EC2, Lambda, Kinesis, RDS ....)
+- AWS (EC2, Lambda, Kinesis, RDS, S3, CloudFront....)
 - Kubernetes
 - MySQL 8.0
 - Elastic Cloud(Kibana, Logstash, Elastic Search)
